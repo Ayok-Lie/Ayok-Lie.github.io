@@ -1,0 +1,70 @@
+theme: redefine
+language: zh-CN
+info:
+    title: Ayok Moment
+    author: Ayok
+navbar:
+  links:
+    Home: # 一级菜单栏名称
+      path: / # 网址，可以为相对路径或者绝对路径
+      icon: fa-regular fa-house # Fontawesome图标名称（可选）
+    Archives:
+      path: /archives
+      icon: fa-regular fa-house
+    About:
+      path: /about
+      icon: fa-regular fa-user
+    friend-links: 
+      path: /friend-links
+      icon: fa-regular fa-tags
+    相册: #取名随意
+      icon: fa-solid fa-image
+      path: /masonry
+    Bookmarks: #取名随意
+      icon: fa-solid fa-bookmark #图标
+      path: /bookmarks/
+home_banner: #主页信息
+  title: 欢迎来到我的世界
+  subtitle:
+    text: ["我们是独立的个体，却不是孤独的存在","每个故事必须按照自己的方式、自己的时间节奏缓缓展开"] 
+    # hitokoto:  # 一言配置
+    #   enable: flase # Whether to enable hitokoto
+    #   show_author: flase # Whether to show author
+    #   api: https://v1.hitokoto.cn
+    typing_speed: 100 # Typing speed (ms)
+    backing_speed: 80 # Backing speed (ms)
+    starting_delay: 500 # Start delay (ms)
+    backing_delay: 1500 # Backing delay (ms)
+    loop: fa;se # Whether to loop
+    smart_backspace: true # Whether to smart backspace
+  social_links:
+    enable: true
+    style: default
+    links:
+      github: https://github.com/username
+      twitter: https://twitter.com/username
+      facebook: https://facebook.com/username
+      instagram: https://instagram.com/username
+global:
+  scroll_progress:
+    bar: true # 进度条
+    percentage: true # percentage
+home:
+  sidebar:
+    announcement: "要开心哟！！！"
+    links:
+      Archives: 
+        path: /archives 
+        icon: fa-regular fa-archive # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
+      Categories: 
+        path: /categories 
+        icon: fa-regular fa-folder # can be empty
+    article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
+page_templates:
+  # Friend Links page column number
+  friends_column: 5
+  # Tags page style
+  tags_style: blur # blur, cloud

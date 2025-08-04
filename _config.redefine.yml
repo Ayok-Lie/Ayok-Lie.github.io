@@ -1,0 +1,116 @@
+theme: redefine
+language: zh-CN
+defaults:
+  favicon: /images/favicon.jpg
+  logo: 
+  avatar: /images/favicon.jpg
+info:
+    title: Ayok Moment
+    author: Ayok
+    url: https://ayok-lie.github.io
+navbar:
+  links:
+    Home: # 一级菜单栏名称
+      path: / # 网址，可以为相对路径或者绝对路径
+      icon: fa-regular fa-house # Fontawesome图标名称（可选）
+    Archives:
+      path: /archives
+      icon: fa-regular fa-file
+    About:
+      path: /about
+      icon: fa-regular fa-user
+    friend-links: 
+      path: /friend-links
+      icon: fa-regular fa-tags
+    相册: #取名随意
+      icon: fa-solid fa-image
+      path: /masonry
+    Bookmarks: #取名随意
+      icon: fa-solid fa-bookmark #图标
+      path: /bookmarks/
+home_banner: #主页信息
+  title: 欢迎来到我的世界
+  subtitle:
+    text: ["我们是独立的个体，却不是孤独的存在","每个故事必须按照自己的方式、自己的时间节奏缓缓展开"] 
+    # hitokoto:  # 一言配置
+    #   enable: flase # Whether to enable hitokoto
+    #   show_author: flase # Whether to show author
+    #   api: https://v1.hitokoto.cn
+    typing_speed: 100 # Typing speed (ms)
+    backing_speed: 80 # Backing speed (ms)
+    starting_delay: 500 # Start delay (ms)
+    backing_delay: 1500 # Backing delay (ms)
+    loop: fa;se # Whether to loop
+    smart_backspace: true # Whether to smart backspace
+  social_links:
+    enable: true
+    style: default
+    links:
+      github: https://github.com/username
+      twitter: https://twitter.com/username
+      facebook: https://facebook.com/username
+      instagram: https://instagram.com/username
+global:
+  scroll_progress:
+    bar: true # 进度条
+    percentage: true # percentage
+home:
+  sidebar:
+    announcement: "要开心哟！！！"
+    links:
+      Archives: 
+        path: /archives 
+        icon: fa-regular fa-archive # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
+      Categories: 
+        path: /categories 
+        icon: fa-regular fa-folder # can be empty
+    article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
+page_templates:
+  # Friend Links page column number
+  friends_column: 5
+  # Tags page style
+  tags_style: blur # blur, cloud
+#评论
+comment:
+  # 是否启用评论
+  enable: true
+  # 评论样式
+  system: waline # waline, gitalk, twikoo, giscus
+  # System configuration
+  config:
+    # Waline comment system. See https://waline.js.org/
+    waline:
+      serverUrl: https://example.example.com # Waline server URL. e.g. https://example.example.com
+      lang: zh-CN # Waline language. e.g. zh-CN, en-US. See https://waline.js.org/guide/client/i18n.html
+      emoji: [] # Waline emojis, see https://waline.js.org/guide/features/emoji.html
+      recaptchaV3Key: # Google reCAPTCHA v3 key. See https://waline.js.org/reference/client/props.html#recaptchav3key
+      turnstileKey: # Turnstile key. See https://waline.js.org/reference/client/props.html#turnstilekey
+      reaction: false # Waline reaction. See https://waline.js.org/reference/client/props.html#reaction
+    # Gitalk comment system. See https://github.com/gitalk/gitalk
+    gitalk:
+      clientID: # GitHub Application Client ID
+      clientSecret: # GitHub Application Client Secret
+      repo: # GitHub repository
+      owner: # GitHub repository owner
+      proxy: # GitHub repository proxy
+    # Twikoo comment system. See https://twikoo.js.org/
+    twikoo:
+      version: 1.6.10 # Twikoo version, do not modify if you dont know what it is
+      server_url: # Twikoo server URL. e.g. https://example.example.com
+      region: # Twikoo region. can be empty
+    # Giscus comment system. See https://giscus.app/
+    giscus:
+      repo: # Github repository name e.g. EvanNotFound/hexo-theme-redefine
+      repo_id: # Github repository id
+      category: # Github discussion category
+      category_id: # Github discussion category id
+      mapping: pathname # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
+      strict: 0 # Whether to enable strict mode. e.g. 0, 1
+      reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
+      emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
+      lang: en # Giscus language. e.g. en, zh-CN, zh-TW
+      input_position: bottom # Place the comment box above/below the comments. e.g. top, bottom
+      loading: lazy # Load the comments lazily

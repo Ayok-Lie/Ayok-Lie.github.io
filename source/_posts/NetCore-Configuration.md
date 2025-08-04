@@ -6,10 +6,8 @@ date: '2025-08-04T10:57:49.602425+08:00'
 tags:
 - .Net基础原理
 title: .Net Core基础—Configuration
-updated: '2025-08-04T10:57:50.112+08:00'
+updated: '2025-08-04T11:32:34.329+08:00'
 ---
-# Configuration
-
 ## 基础知识
 
 配置的本质是键值对，微软对于配置提供了大量的配置源提供程序，包括xml，json，ini，环境变量，命令行参数，内存等等。还提供了一个扩展包用于配置绑定和类型转换。
@@ -214,7 +212,7 @@ var options2 = configuration.GetSection("MvcOptions").Get<MvcOptions>();
               {
                   Thread.Sleep(3000);
                   var t = tokenSource;
-                  tokenSource = null;//取消之前一定要设置成null              
+                  tokenSource = null;//取消之前一定要设置成null            
                   t!.Cancel();//执行回调，发布取消事件。
               }
           });

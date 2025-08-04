@@ -46,7 +46,7 @@ home_banner: #主页信息
     enable: true
     style: default
     links:
-      github: https://github.com/username
+      github: https://github.com/Ayok-Lie
       twitter: https://twitter.com/username
       facebook: https://facebook.com/username
       instagram: https://instagram.com/username

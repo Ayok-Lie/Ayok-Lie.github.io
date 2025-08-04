@@ -7,10 +7,8 @@ tags:
 - .Net基础原理
 - 设计模式
 title: .Net Core基础—Ioc
-updated: '2025-08-04T10:37:56.049+08:00'
+updated: '2025-08-04T11:35:43.347+08:00'
 ---
-# IOC
-
 ## 基础知识
 
 我们如何理解IOC？我们可以通过一个现实世界的模型来进行解释。比如有一本菜谱这个菜谱就是我们的IServiceCollection，里面记录了菜（Service）的描述信息（ServiceDescriptor）菜名（ServiceDescriptor.ServiceType）以及菜具体制作方法（ServiceDescriptor.ImplementationType），通过菜名（ServiceType）告诉厨师（IServiceProvider）制作（实列化、解析）出来我们要吃的菜。这就是IOC技术。

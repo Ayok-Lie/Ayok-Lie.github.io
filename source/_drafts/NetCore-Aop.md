@@ -8,9 +8,9 @@ tags:
 - '.Net基础原理 '
 - 设计模式
 title: .Net Core基础—Aop
-updated: '2025-08-05T09:40:38.452+08:00'
+updated: '2025-08-05T09:45:16.985+08:00'
 ---
-![aop.png](https://github.com/Ayok-Lie/images.house/tree/main/Blog/Images/2025/8/1754358016.002285.png)
+![aop.png](https://github.com/Ayok-Lie/images.house/tree/main/Blog/Images/2025/8/1754358016.002285.png)[]([https://](https://github.com/Ayok-Lie/images.house/tree/main/Blog/Images/2025/8/1754358213.168319.png))
 
 ## 基础知识
 

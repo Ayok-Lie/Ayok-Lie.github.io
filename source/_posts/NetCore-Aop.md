@@ -10,7 +10,7 @@ tags:
 title: .Net Core基础—Aop
 updated: '2025-08-05T10:32:08.198+08:00'
 ---
-![](https://raw.githubusercontent.com/Ayok-Lie/images.house/main/Blog/Images/20250805102615071.png?token=AWT4OJC4YJZ2J4A4J54CW6DISFWAM)
+![](https://raw.githubusercontent.com/Ayok-Lie/images.house/main/Blog/Images/20250805103624014.png?token=AWT4OJBYG7FYIKHJ5UNBG43ISFXGO)
 
 ## 基础知识
 

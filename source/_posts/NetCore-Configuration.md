@@ -3,10 +3,12 @@ abbrlink: ''
 categories:
 - - C#
 date: '2025-08-04T10:57:49.602425+08:00'
+excerpt: 介绍 .NET Core 配置系统，涵盖 XML、JSON 等多种配置源。通过 IConfiguration 接口统一管理，结合扩展包实现灵活配置。
+sticky: ''
 tags:
 - .Net基础原理
 title: .Net Core基础—Configuration
-updated: '2025-08-04T11:32:34.329+08:00'
+updated: '2025-08-05T11:06:38.917+08:00'
 ---
 ## 基础知识
 
@@ -212,7 +214,7 @@ var options2 = configuration.GetSection("MvcOptions").Get<MvcOptions>();
               {
                   Thread.Sleep(3000);
                   var t = tokenSource;
-                  tokenSource = null;//取消之前一定要设置成null            
+                  tokenSource = null;//取消之前一定要设置成null          
                   t!.Cancel();//执行回调，发布取消事件。
               }
           });

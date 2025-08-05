@@ -3,13 +3,14 @@ abbrlink: ''
 categories:
 - - C#
 date: '2025-08-04T11:28:41.270714+08:00'
+sticky: ''
 tags:
 - '.Net基础原理 '
 - 设计模式
 title: .Net Core基础—Aop
-updated: '2025-08-04T11:28:41.745+08:00'
+updated: '2025-08-05T09:40:38.452+08:00'
 ---
-[]([a147871f89ce4e40921fb0bd050c198a.png (815×459)](https://i-blog.csdnimg.cn/direct/a147871f89ce4e40921fb0bd050c198a.png#pic_center))
+![aop.png](https://github.com/Ayok-Lie/images.house/tree/main/Blog/Images/2025/8/1754358016.002285.png)
 
 ## 基础知识
 
@@ -603,7 +604,7 @@ public static class InvocationUtilities
         public object InvocationTarget { get; }
 
         public MethodInfo Method  { get; }
-     
+   
         public void Proceed()
         {
             Method.Invoke(InvocationTarget, Arguments);
@@ -650,7 +651,7 @@ public static class InvocationUtilities
             throw new NotImplementedException();
         }
 
-     
+   
 
         public void SetArgumentValue(int index, object value)
         {

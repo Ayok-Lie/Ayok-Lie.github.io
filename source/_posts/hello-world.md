@@ -22,24 +22,6 @@ updated: '2025-08-07T09:34:27.899+08:00'
   <div style="display: inline-block; width: 60px; height: 60px; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); border-radius: 50%; animation: pulse 2s infinite;">
   </div>
 </div>
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); opacity: 0.7; }
-    50% { transform: scale(1.2); opacity: 1; }
-    100% { transform: scale(1); opacity: 0.7; }
-  }
-  blockquote {
-    border-left: 4px solid #d4a76a;
-    padding: 12px 20px;
-    margin: 20px 0;
-    background-color: #f9f5f0;
-    font-style: italic;
-    color: #444;
-    border-radius: 0 8px 8px 0;
-    width:100%;
-  }
-</style>
-
 ---
 
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
@@ -57,10 +39,9 @@ updated: '2025-08-07T09:34:27.899+08:00'
 </blockquote>
 </div>
 
-<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
-
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《雪国》· 川端康成</span>
 
+<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
 <blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
   <p>“穿过县界长长的隧道，便是雪国。”</p>
   <p>“她的眼睛仿佛映着山野的冷光，清澈得令人心碎。”</p>

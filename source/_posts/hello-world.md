@@ -24,8 +24,10 @@ updated: '2025-08-07T12:04:09.372+08:00'
 </div>
 
 
----
+
+
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
+
 <div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
 <blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
   <p>“人生长恨水长东。”</p>
@@ -38,7 +40,7 @@ updated: '2025-08-07T12:04:09.372+08:00'
   <p>“美如朝露，短暂易逝，然其光华，足以照耀永恒。”</p>
 </blockquote>
 </div>
----
+
 
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《雪国》· 川端康成</span>
 
@@ -52,5 +54,37 @@ updated: '2025-08-07T12:04:09.372+08:00'
   <p>“美在绝望中诞生，在毁灭中达到极致。”</p>
   <p>“岛村感到自己的生命在虚无中飘荡。”</p>
   <p>“驹子的日记写满了空虚与希望的矛盾。”</p>
+</blockquote>
+</div>
+
+
+### <span style="color: #9e6d7b; font-size: 1.5em;">《人间失格》· 太宰治</span>
+
+<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
+<blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
+  <p>“生而为人，我很抱歉。”</p>
+  <p>“我伪装成骗子，人们就说我是个骗子。”</p>
+  <p>“所谓世人，不就是个人吗？”</p>
+  <p>“胆小鬼连幸福都害怕，碰到棉花都会受伤。”</p>
+  <p>“我渴望有人暴烈地爱我至死不渝。”</p>
+  <p>“我装作老成，人人就传言我老成。”</p>
+  <p>“所谓的世人，不过是几个人的投影。”</p>
+  <p>“我这一生，尽是可耻之事。”</p>
+</blockquote>
+</div>
+
+
+### <span style="color: #9e6d7b; font-size: 1.5em;">《挪威的森林》· 村上春树</span>
+
+<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
+<blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
+  <p>“死并非生的对立面，而作为生的一部分永存。”</p>
+  <p>“哪里有人喜欢孤独，只不过不乱交朋友罢了，那样只能落得失望。”</p>
+  <p>“我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。”</p>
+  <p>“迷失的人迷失了，相逢的人会再相逢。”</p>
+  <p>“记忆这东西总会在意想不到的时候突然苏醒。”</p>
+  <p>“我们都在命运的泥沼中挣扎，却始终无法挣脱。”</p>
+  <p>“每个人都有属于自己的一片森林，也许我们从来不曾去过，但它一直在那里。”</p>
+  <p>“希望你能记住我，记住我曾这样存在过。”</p>
 </blockquote>
 </div>

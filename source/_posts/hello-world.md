@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 文学
 date: ''
-excerpt: ''
+excerpt: 诸事顺遂 顺顺尼~
 sticky: '9999'
 tags:
 - 文学摘抄
@@ -64,8 +64,6 @@ updated: '2025-08-07T09:34:27.899+08:00'
 
 ---
 
-<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
-
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
 
 <blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
@@ -78,7 +76,6 @@ updated: '2025-08-07T09:34:27.899+08:00'
   <p>“夜深人静，独对孤灯，往事如烟，涌上心头。”</p>
   <p>“美如朝露，短暂易逝，然其光华，足以照耀永恒。”</p>
 </blockquote>
-</div>
 
 <div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
 

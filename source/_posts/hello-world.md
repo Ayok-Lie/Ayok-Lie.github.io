@@ -22,3 +22,20 @@ updated: '2025-08-07T12:04:09.372+08:00'
   <div style="display: inline-block; width: 60px; height: 60px; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); border-radius: 50%; animation: pulse 2s infinite;">
   </div>
 </div>
+
+
+---
+### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
+<div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">
+<blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
+  <p>“人生长恨水长东。”</p>
+  <p>“月光如练，照彻千古，人心如影，随地而生。”</p>
+  <p>“世间万物，无常为常，盛者必衰，荣者必枯。”</p>
+  <p>“情之所钟，虽死不悔，然终归虚幻，如梦如烟。”</p>
+  <p>“人面不知何处去，桃花依旧笑春风。”</p>
+  <p>“心若止水，波澜不兴，然一念起处，万丈波涛。”</p>
+  <p>“夜深人静，独对孤灯，往事如烟，涌上心头。”</p>
+  <p>“美如朝露，短暂易逝，然其光华，足以照耀永恒。”</p>
+</blockquote>
+</div>
+---

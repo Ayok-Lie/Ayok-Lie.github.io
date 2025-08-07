@@ -22,7 +22,6 @@ updated: '2025-08-07T09:34:27.899+08:00'
   <div style="display: inline-block; width: 60px; height: 60px; background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); border-radius: 50%; animation: pulse 2s infinite;">
   </div>
 </div>
-
 <style>
   @keyframes pulse {
     0% { transform: scale(1); opacity: 0.7; }
@@ -38,7 +37,7 @@ updated: '2025-08-07T09:34:27.899+08:00'
     color: #444;
     border-radius: 0 8px 8px 0;
   }
-  table {
+  span {
     width: 100%;
     border-collapse: collapse;
     margin: 25px 0;
@@ -66,7 +65,7 @@ updated: '2025-08-07T09:34:27.899+08:00'
 
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
 
-<blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
+<blockquote style="width:100%; border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
   <p>“人生长恨水长东。”</p>
   <p>“月光如练，照彻千古，人心如影，随地而生。”</p>
   <p>“世间万物，无常为常，盛者必衰，荣者必枯。”</p>

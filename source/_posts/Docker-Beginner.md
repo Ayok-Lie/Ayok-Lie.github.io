@@ -2,13 +2,14 @@
 abbrlink: ''
 categories: []
 date: '2025-08-04T14:47:13.546631+08:00'
+excerpt: 本文简明扼要地介绍了在CentOS 7.9上安装和配置Docker的完整步骤，涵盖环境准备、安装、启动服务及加速器配置，助你快速搭建Docker环境
 sticky: ''
 tags:
 - CICD
 - Docker Compose
 - Docker
 title: Docker快速入门
-updated: '2025-08-04T14:47:14.102+08:00'
+updated: '2025-08-07T14:35:46.425+08:00'
 ---
 ### 安装
 

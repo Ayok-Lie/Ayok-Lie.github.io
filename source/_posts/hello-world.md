@@ -36,28 +36,7 @@ updated: '2025-08-07T09:34:27.899+08:00'
     font-style: italic;
     color: #444;
     border-radius: 0 8px 8px 0;
-  }
-  span {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 25px 0;
-    font-size: 0.95em;
-    background: #fffaf3;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  }
-  th, td {
-    padding: 12px 15px;
-    text-align: left;
-    border-bottom: 1px solid #eee;
-  }
-  th {
-    background: #e6ba7e;
-    color: white;
-  }
-  tr:hover {
-    background-color: #f3e6d9;
+    width:100%;
   }
 </style>
 
@@ -65,7 +44,7 @@ updated: '2025-08-07T09:34:27.899+08:00'
 
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《源氏物语》· 紫式部</span>
 
-<blockquote style="width:100%; border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
+<blockquote style="border-left: 3px solid #c9b5b5; padding-left: 16px; margin: 16px 0; color: #666;">
   <p>“人生长恨水长东。”</p>
   <p>“月光如练，照彻千古，人心如影，随地而生。”</p>
   <p>“世间万物，无常为常，盛者必衰，荣者必枯。”</p>

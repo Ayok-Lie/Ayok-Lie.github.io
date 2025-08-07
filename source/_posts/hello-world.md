@@ -39,6 +39,7 @@ updated: '2025-08-07T12:04:09.372+08:00'
 </blockquote>
 </div>
 ---
+
 ### <span style="color: #9e6d7b; font-size: 1.5em;">《雪国》· 川端康成</span>
 
 <div style="background: #f8f3e6; padding: 24px; border-radius: 12px; margin-bottom: 32px; border: 1px solid #eae0c0;">

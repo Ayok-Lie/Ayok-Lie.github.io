@@ -1,7 +1,7 @@
 ---
 date: '2023-10-05T14:55:22+08:00'
 title: 友链
-updated: '2025-10-18T11:47:36.581+08:00'
+updated: '2025-10-18T11:49:55.506+08:00'
 ---
 ## Friend Links
 
@@ -31,12 +31,6 @@ function applyFriendList() {
 ## Personal (5)
 
 Record every single step of the way.
-
-![logo.jpg](https://github.com/Ayok-Lie/images.house/blob/main/Blog/Images/25/10/logo_d8eb2a089bd91732b72831ec03b7b5ea.jpg)
-
-
-
-
 
 <div class="personal-friends">
     <div class="friend-card">

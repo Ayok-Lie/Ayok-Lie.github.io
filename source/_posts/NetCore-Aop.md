@@ -1,16 +1,14 @@
 ---
 abbrlink: ''
-categories:
-- - C#
+categories: []
 date: '2025-08-04T11:28:41.270714+08:00'
 excerpt: AOP（面向切面编程）将日志、异常、权限等横切逻辑与业务解耦。在 .NET Core 中，借助 Castle DynamicProxy 或 源生成器，结合依赖注入，可轻松实现方法拦截与切面注入。本文带你用最简方式落地
   AOP，提升代码整洁度与可维护性。
 sticky: ''
 tags:
 - '.Net基础原理 '
-- 设计模式
 title: .Net Core基础—Aop
-updated: '2025-08-05T10:58:19.658+08:00'
+updated: '2025-10-18T09:20:28.122+08:00'
 ---
 ![](https://raw.githubusercontent.com/Ayok-Lie/images.house/main/Blog/Images/20250805103624014.png?token=AWT4OJBYG7FYIKHJ5UNBG43ISFXGO)
 

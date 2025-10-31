@@ -6,7 +6,7 @@ excerpt: AOP（面向切面编程）将日志、异常、权限等横切逻辑�
   AOP，提升代码整洁度与可维护性。
 sticky: ''
 tags:
-- '.Net基础原理 '
+- .Net基础原理
 title: .Net Core基础—Aop
 updated: '2025-10-18T09:20:28.122+08:00'
 ---
